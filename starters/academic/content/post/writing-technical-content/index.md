@@ -75,7 +75,7 @@ A more advanced mindmap with formatting, code blocks, and math:
   - Links
     - [Wowchemy Docs](https://wowchemy.com/docs/)
     - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+    - [GitHub](https://github.com/jaune162/wowchemy-hugo-themes)
   - Features
     - Markdown formatting
     - **inline** ~~text~~ *styles*
@@ -100,7 +100,7 @@ renders as
   - Links
     - [Wowchemy Docs](https://wowchemy.com/docs/)
     - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+    - [GitHub](https://github.com/jaune162/wowchemy-hugo-themes)
   - Features
     - Markdown formatting
     - **inline** ~~text~~ *styles*

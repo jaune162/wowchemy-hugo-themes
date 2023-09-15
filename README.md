@@ -25,12 +25,12 @@
 - 👉 [**Get Started**](https://wowchemy.com/templates/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
 - 🙋‍♀️ **Have a question?**
-  - **Chat with us now on [Discord](https://discord.gg/z8wNYzb)** or explore the [Troubleshooting Guide]() and [Q&A Forum](https://github.com/wowchemy/wowchemy-hugo-themes/discussions)
+  - **Chat with us now on [Discord](https://discord.gg/z8wNYzb)** or explore the [Troubleshooting Guide]() and [Q&A Forum](https://github.com/jaune162/wowchemy-hugo-themes/discussions)
   - _Also, check out [Hugo Forum](https://discourse.gohugo.io) for Hugo Qs and [Netlify Forum](https://answers.netlify.com/) for Netlify Qs_
 - 🐦 Share your Wowchemy site with the community on Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
 - 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
-- 🚀 [Contribute improvements](CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
+- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/jaune162/wowchemy-hugo-themes/releases)
+- 🚀 [Contribute improvements](CONTRIBUTING.md) or [suggest improvements](https://github.com/jaune162/wowchemy-hugo-themes/issues)
 
 ## 💙 We ask you, humbly, to support this open source movement
 
@@ -99,15 +99,15 @@ Choose a stunning theme for your site and [customize it](https://wowchemy.com/do
 
 ## Ecosystem
 
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/):** Automatically import academic publications from BibTeX
-- **[Awesome Hugo](https://github.com/wowchemy/awesome-hugo):** Scripts to help migrate content to new versions of Hugo
+- **[Hugo Academic CLI](https://github.com/jaune162/hugo-academic-cli/):** Automatically import academic publications from BibTeX
+- **[Awesome Hugo](https://github.com/jaune162/awesome-hugo):** Scripts to help migrate content to new versions of Hugo
 
 ## Join the community
 
-Feel free to [_star_ the project on Github](https://github.com/wowchemy/wowchemy-hugo-themes), [join the community](https://discord.gg/z8wNYzb) on Discord, and follow [@wowchemy](https://twitter.com/wowchemy) on Twitter to be the first to hear about new features.
+Feel free to [_star_ the project on Github](https://github.com/jaune162/wowchemy-hugo-themes), [join the community](https://discord.gg/z8wNYzb) on Discord, and follow [@wowchemy](https://twitter.com/wowchemy) on Twitter to be the first to hear about new features.
 
 ## License
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-The [Wowchemy Hugo Themes](https://github.com/wowchemy/wowchemy-hugo-themes/) repository is released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md) license.
+The [Wowchemy Hugo Themes](https://github.com/jaune162/wowchemy-hugo-themes/) repository is released under the [MIT](https://github.com/jaune162/wowchemy-hugo-themes/blob/main/LICENSE.md) license.

@@ -29,7 +29,7 @@ The RStudio team released Blogdown, a wrapper around Hugo for the RStudio IDE. H
 
         remotes::install_github('rstudio/blogdown')
 
-1. Open `academic.Rproj` from your site's folder, [downloading it if necessary](https://github.com/wowchemy/starter-academic/blob/main/academic.Rproj)
+1. Open `academic.Rproj` from your site's folder, [downloading it if necessary](https://github.com/jaune162/starter-academic/blob/main/academic.Rproj)
 
 1. Blogdown will automatically move your site's `config/_default/config.yaml` file to the site folder as [Blogdown does not support Hugo's config folder](https://github.com/rstudio/blogdown/issues/359)
 

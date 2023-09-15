@@ -34,7 +34,7 @@ To create an **open second brain**, share your knowledge with others [by deployi
 To create a **private second brain** either:
 
 - After deploying your site above, [password protect your online second brain](https://docs.netlify.com/visitor-access/password-protection/) and configure your GitHub repo as **private**
-- [Download this template](https://github.com/wowchemy/hugo-second-brain-theme) and [run the tool locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
+- [Download this template](https://github.com/jaune162/hugo-second-brain-theme) and [run the tool locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 
 ## Example notebook
 

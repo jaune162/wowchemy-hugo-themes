@@ -13,7 +13,7 @@ Supports math, syntax highlighting, diagrams, speaker notes, and much more!
    ```yaml
    module:
      imports:
-       - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+       - path: github.com/jaune162/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
    ```
 
 ## Usage

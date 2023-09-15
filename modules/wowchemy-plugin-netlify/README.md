@@ -13,7 +13,7 @@ By default, the plugin will help secure your site with some common security head
    ```yaml
    module:
      imports:
-       - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+       - path: github.com/jaune162/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
    ```
 
 2. Tell Hugo to generate the Netlify `headers` and `redirects` files by adding them to Hugo's `outputs` config. For example,

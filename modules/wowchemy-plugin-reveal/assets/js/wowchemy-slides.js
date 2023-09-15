@@ -1,6 +1,6 @@
 /*************************************************
  *  Wowchemy - https://wowchemy.com/
- *  License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md
+ *  License: https://github.com/jaune162/wowchemy-hugo-themes/blob/main/LICENSE.md
  *
  *  Reveal.JS integration
  **************************************************/

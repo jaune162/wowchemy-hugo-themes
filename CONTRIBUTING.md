@@ -12,8 +12,8 @@ Join the **Contributing** channel on the **[community Discord](https://discord.g
 
 Whether or not you're a developer, there are plenty of non-technical ways that you can help. We always need help with:
 
-- Helping the Wowchemy community via the live [chat](https://discord.gg/z8wNYzb) and [forum](https://github.com/wowchemy/wowchemy-hugo-themes/discussions)
-- Investigating and reviewing open [Issues](https://github.com/wowchemy/wowchemy-hugo-themes/issues) and [Pull Requests](https://github.com/wowchemy/wowchemy-hugo-themes/pulls)
+- Helping the Wowchemy community via the live [chat](https://discord.gg/z8wNYzb) and [forum](https://github.com/jaune162/wowchemy-hugo-themes/discussions)
+- Investigating and reviewing open [Issues](https://github.com/jaune162/wowchemy-hugo-themes/issues) and [Pull Requests](https://github.com/jaune162/wowchemy-hugo-themes/pulls)
   - Influence the roadmap! Give a thumbs up 👍 to upvote a feature request you would like to use
 - Improving the [documentation](https://wowchemy.com/docs/) and writing tutorials
   - Just click the _Edit_ button at the bottom of pages or open an issue with your proposed improvement
@@ -38,13 +38,13 @@ Repository structure:
 
 #### What are some good issues to contribute to?
 
-If you're a developer looking to contribute, but you're not sure where to begin, check out the [help wanted](https://github.com/wowchemy/wowchemy-hugo-themes/labels/help%20wanted) label on Github, which contains issues which need some love.
+If you're a developer looking to contribute, but you're not sure where to begin, check out the [help wanted](https://github.com/jaune162/wowchemy-hugo-themes/labels/help%20wanted) label on Github, which contains issues which need some love.
 
 #### How can I propose an improvement?
 
-If you have a straightforward bug fix or improvement, feel free to contribute it in a [Pull Request](https://github.com/wowchemy/wowchemy-hugo-themes/pulls) for the community to review.
+If you have a straightforward bug fix or improvement, feel free to contribute it in a [Pull Request](https://github.com/jaune162/wowchemy-hugo-themes/pulls) for the community to review.
 
-If you have an idea for a new feature, please start by [searching the issues](https://github.com/wowchemy/wowchemy-hugo-themes/issues) to check that the feature has not already been suggested and then suggest it by [opening a new issue](https://github.com/wowchemy/wowchemy-hugo-themes/issues/new/choose), as adding new features to Wowchemy first requires some analysis around the design and spec.
+If you have an idea for a new feature, please start by [searching the issues](https://github.com/jaune162/wowchemy-hugo-themes/issues) to check that the feature has not already been suggested and then suggest it by [opening a new issue](https://github.com/jaune162/wowchemy-hugo-themes/issues/new/choose), as adding new features to Wowchemy first requires some analysis around the design and spec.
 
 Please be mindful of the project [scope](#scope).
 
@@ -92,21 +92,21 @@ yarn run format
 
 **Open a Pull Request with your changes**
 
-Use git to push (upload) your changes to GitHub and then open a Pull Request (PR) at https://github.com/wowchemy/wowchemy-hugo-themes/pulls
+Use git to push (upload) your changes to GitHub and then open a Pull Request (PR) at https://github.com/jaune162/wowchemy-hugo-themes/pulls
 
 Please be mindful of the project [scope](#scope).
 
 ### Contribute a widget
 
-[Create and publish your own widget](https://github.com/wowchemy/wowchemy-widget-starter)
+[Create and publish your own widget](https://github.com/jaune162/wowchemy-widget-starter)
 
 ### Contribute a shortcode
 
-[Create and publish your own shortcode](https://github.com/wowchemy/wowchemy-shortcode-starter)
+[Create and publish your own shortcode](https://github.com/jaune162/wowchemy-shortcode-starter)
 
 ### Contribute a language pack
 
-To contribute a **new language pack** or an improvement to a language pack, refer to the [language pack guide](https://wowchemy.com/docs/language/#create-or-modify-a-language-pack). Once created, [fork Wowchemy Hugo Modules](https://github.com/wowchemy/wowchemy-hugo-themes), place your language pack in `wowchemy/i18n/`, add the name of the language to `wowchemy/data/i18n/language.yaml`, and open a Pull Request on Github with these two files.
+To contribute a **new language pack** or an improvement to a language pack, refer to the [language pack guide](https://wowchemy.com/docs/language/#create-or-modify-a-language-pack). Once created, [fork Wowchemy Hugo Modules](https://github.com/jaune162/wowchemy-hugo-themes), place your language pack in `wowchemy/i18n/`, add the name of the language to `wowchemy/data/i18n/language.yaml`, and open a Pull Request on Github with these two files.
 
 ### Contribute a theme pack
 
@@ -114,11 +114,11 @@ To contribute a **new language pack** or an improvement to a language pack, refe
 
 ### Contribute a template
 
-Consider duplicating a bare-bones template, such as the [Minimal](https://github.com/wowchemy/wowchemy-hugo-themes/tree/main/starters/minimal) folder, and building up your own template using the Wowchemy Hugo Module. Reach out on the **Contributing** channel in Discord to submit your template.
+Consider duplicating a bare-bones template, such as the [Minimal](https://github.com/jaune162/wowchemy-hugo-themes/tree/main/starters/minimal) folder, and building up your own template using the Wowchemy Hugo Module. Reach out on the **Contributing** channel in Discord to submit your template.
 
 ### Contribute to the Publication importer
 
-To contribute to **Hugo Academic CLI**, the automatic publication importer, refer to [its dedicated Github repository](https://github.com/wowchemy/hugo-academic-cli) and Issue queue.
+To contribute to **Hugo Academic CLI**, the automatic publication importer, refer to [its dedicated Github repository](https://github.com/jaune162/hugo-academic-cli) and Issue queue.
 
 ## Become a backer
 

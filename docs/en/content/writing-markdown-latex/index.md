@@ -277,7 +277,7 @@ gallery_item:
 
 ### Inline image
 
-Wowchemy enables you to use a wide range of [inline images (aka icons) from _Font Awesome_ and _Academicons_]({{< relref "page-builder.md#icons" >}}) in addition to [emojis](#emojis). There is also an [issue](https://github.com/wowchemy/wowchemy-hugo-themes/issues/1698) open to add support for custom images.
+Wowchemy enables you to use a wide range of [inline images (aka icons) from _Font Awesome_ and _Academicons_]({{< relref "page-builder.md#icons" >}}) in addition to [emojis](#emojis). There is also an [issue](https://github.com/jaune162/wowchemy-hugo-themes/issues/1698) open to add support for custom images.
 
 Here are some examples using the _icon_ shortcode to render icons:
 
@@ -443,7 +443,7 @@ A more advanced mindmap with formatting, code blocks, and math:
   - Links
     - [Wowchemy Docs](https://wowchemy.com/docs/)
     - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+    - [GitHub](https://github.com/jaune162/wowchemy-hugo-themes)
   - Features
     - Markdown formatting
     - **inline** ~~text~~ *styles*
@@ -468,7 +468,7 @@ renders as
   - Links
     - [Wowchemy Docs](https://wowchemy.com/docs/)
     - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+    - [GitHub](https://github.com/jaune162/wowchemy-hugo-themes)
   - Features
     - Markdown formatting
     - **inline** ~~text~~ *styles*

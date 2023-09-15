@@ -21,7 +21,7 @@ The following common metadata can be added to the [front matter]({{< relref "fro
 - **title**: the title of your page
 - **summary**: a one-sentence summary of the content on your page. The summary can be shown on the homepage and can also benefit your search engine ranking.
 - **date**: the [RFC 3339 date](https://github.com/toml-lang/toml#local-date-time) that the page was published. A future date will schedule the page to be published in the future. If you use the `hugo new ...` commands described on this page, the date will be filled automatically when you create a page. Also see **lastmod** and **publishDate**.
-- **authors**: display the authors of the page and link to their user profiles if they exist. To link to a user profile, [create a user]({{< relref "get-started.md#introduce-yourself" >}}) based on the [*admin* template](https://github.com/wowchemy/starter-academic/tree/master/exampleSite/content/authors) and reference their username (the name of a user in your `authors` folder) in the `authors` field, e.g. `authors: ["admin"]`. To format a name in bold, see the relevant section below.
+- **authors**: display the authors of the page and link to their user profiles if they exist. To link to a user profile, [create a user]({{< relref "get-started.md#introduce-yourself" >}}) based on the [*admin* template](https://github.com/jaune162/starter-academic/tree/master/exampleSite/content/authors) and reference their username (the name of a user in your `authors` folder) in the `authors` field, e.g. `authors: ["admin"]`. To format a name in bold, see the relevant section below.
 - **author_notes**: display author contributions, affiliations, and other details as a tooltip next to the author's name (see section below)
 - **tags**: tagging your content helps users to discover similar content on your site. Tags can improve search relevancy and are displayed after the page content and also in the [Tag Cloud widget]({{< relref "page-builder.md" >}}). E.g. `tags: ["Electronics", "Diodes"]`.
 
@@ -45,7 +45,7 @@ A complete list of standard options can be found on the corresponding [Hugo docs
 To display a **cover image** (aka _featured_ image) in content pages, simply drag an image named `featured.*` (e.g. `featured.jpg`) into your page's folder.
 
 {{% callout note %}}
-If your page does not have its own folder ([*page bundle*](https://gohugo.io/content-management/page-bundles/)) within its section folder, you can refactor a page named `NAME.md` to `NAME/index.md`, creating the folder `NAME`. There is a [tool to help automate this process](https://github.com/wowchemy/awesome-hugo).
+If your page does not have its own folder ([*page bundle*](https://gohugo.io/content-management/page-bundles/)) within its section folder, you can refactor a page named `NAME.md` to `NAME/index.md`, creating the folder `NAME`. There is a [tool to help automate this process](https://github.com/jaune162/awesome-hugo).
 {{% /callout %}}
 
 Want to caption the image or set a focal point to influence how the image is cropped?

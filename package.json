@@ -5,12 +5,12 @@
   "author": "George Cushen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wowchemy/wowchemy-hugo-themes/issues"
+    "url": "https://github.com/jaune162/wowchemy-hugo-themes/issues"
   },
   "homepage": "https://wowchemy.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wowchemy/wowchemy-hugo-themes.git"
+    "url": "git+https://github.com/jaune162/wowchemy-hugo-themes.git"
   },
   "main": "index.js",
   "dependencies": {

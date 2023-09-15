@@ -13,7 +13,7 @@ Otherwise, if you are not using the main `wowchemy` module, you can get SEO feat
    ```yaml
    module:
      imports:
-       - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo
+       - path: github.com/jaune162/wowchemy-hugo-themes/modules/wowchemy-seo
    ```
 
 2. If you're not using the main `wowchemy` module, load the SEO module in your site's `<head>` with:

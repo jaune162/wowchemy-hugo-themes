@@ -1,6 +1,6 @@
 /*************************************************
  *  Wowchemy
- *  https://github.com/wowchemy/wowchemy-hugo-themes
+ *  https://github.com/jaune162/wowchemy-hugo-themes
  *
  *  Core JS functions and initialization.
  **************************************************/
@@ -95,7 +95,7 @@ function fixHugoOutput() {
   document.querySelectorAll('input[type=\'checkbox\'][disabled]').forEach((checkbox) => {
     checkbox.closest('ul').classList.add('task-list');
   });
-  
+
   // Bootstrap table style is opt-in and Goldmark doesn't add it.
   document.querySelectorAll('table').forEach((table) => {
     table.classList.add('table');

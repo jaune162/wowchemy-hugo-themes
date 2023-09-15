@@ -1,6 +1,6 @@
 /*************************************************
  *  Wowchemy
- *  https://github.com/wowchemy/wowchemy-hugo-themes
+ *  https://github.com/jaune162/wowchemy-hugo-themes
  *
  *  Wowchemy Headroom
  **************************************************/

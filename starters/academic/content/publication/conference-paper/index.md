@@ -45,12 +45,12 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: 'https://github.com/jaune162/wowchemy-hugo-themes'
+url_dataset: 'https://github.com/jaune162/wowchemy-hugo-themes'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_source: 'https://github.com/jaune162/wowchemy-hugo-themes'
 url_video: 'https://youtube.com'
 
 # Featured image

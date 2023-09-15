@@ -56,8 +56,8 @@ categories:
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/jaune162/wowchemy-hugo-themes/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/jaune162/wowchemy-hugo-themes/releases)
 
 ## Crowd-funded open-source software
 
@@ -69,7 +69,7 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 
 ## Ecosystem
 
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+- **[Hugo Academic CLI](https://github.com/jaune162/hugo-academic-cli):** Automatically import publications from BibTeX
 
 ## Inspiration
 
@@ -103,4 +103,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/jaune162/wowchemy-hugo-themes/blob/master/LICENSE.md) license.

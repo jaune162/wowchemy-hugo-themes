@@ -4,7 +4,7 @@ contact_links:
     url: https://discord.gg/z8wNYzb
     about: Chat live with the Wowchemy community on Discord.
   - name: Discussions
-    url: https://github.com/wowchemy/wowchemy-hugo-themes/discussions
+    url: https://github.com/jaune162/wowchemy-hugo-themes/discussions
     about: Discuss Wowchemy on the GitHub Discussions forum
   - name: Troubleshooting Guide
     url: https://wowchemy.com/docs/hugo-tutorials/troubleshooting/
